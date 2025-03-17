@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "username": "shiva",
+      "password": "123456",
+      "email": "shivashankaranpm.03@gmail.com",
+      "DOB": "14/11/2003",
+      "age": "calculate"
+    },
+    {
+      "id": 4,
+      "username": "light",
+      "password": "111111",
+      "email": "king@gmail.com",
+      "DOB": "23/10/2009",
+      "age": "calculate"
+    },
+    {
+      "id": 5,
+      "username": "asshole",
+      "password": "asshole",
+      "email": "admin@gmail.com",
+      "DOB": "23/10/2001",
+      "age": "calculate"
+    },
+    {
+      "id": 6,
+      "username": "new",
+      "password": "123456",
+      "email": "abc@gmail.com",
+      "DOB": "11/12/2003",
+      "age": "calculate"
+    },
+    {
+      "id": 7,
+      "username": "Ashwith",
+      "password": "123456",
+      "email": "abc@gmail.com",
+      "DOB": "23/10/1995",
+      "age": "calculate"
+    }
+  ]
+}
